@@ -6,7 +6,7 @@ This Java program is a password generator that allows the user to specify the pa
     private static final String UPPERCASE = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     private static final String NUMBERS = "0123456789";
     private static final String SYMBOLS = "!@#$%^&*()-_=+";
-//These strings define the possible characters for the password.
+**These strings define the possible characters for the password**
 
 2.SecureRandom for Random Generation
     private static final SecureRandom random = new SecureRandom();
